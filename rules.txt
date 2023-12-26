@@ -1,0 +1,85 @@
+##### Pravidla
+Hra je přesně pro tři (i tato verze). Dá se hrát i ve více v tzv. "pauzírákovi" ale to se této verze netýče...
+Výchozí pořadí hry určuje na počátku hry sejmutí karty = kdo sejme nejvyšší tak rozdává, hráč po jeho levé ruce kope karty a po pravé ruce má povinnost.
+Hraje se běžně ve směru hodinových ručiček.
+
+### Nejdůležitější pravidla:
+Bude to zmíněné i dole ale pro důraz...
+-- Přiznávat barvy a to vždy. Ikdyž mám trumf tak musím užít barvu když ji mám.
+Barvou je myšleno: Srdce čili červené, Kule (Káry), Listy (Piky) či zelené, Žaludy (Kříže)
+-- Vždy je lepší hlásit trumf první s dámou (silně doporučeno)
+-- Je povinné přebíjet karty tou silnejší. Když nemá člověk silnejší stejné barvy tak musí užít trumf. Když není ani trumfová karta tak už může házet tzv. "plevel"
+
+### Rozdávání
+Hraje se s dvouhlavými mariášovými karty ale dá se to i s piketami.
+Po rozdání má mít každý hráč 10 karet a 2 mají být v talónu (je 32 karet; talón má ten kdo má povinnost nebo vyhraje hádku/hlášku)
+Nejběžnější způsoby rozdání jsou:
+3 každému hráči - talón (2) - 4 každému hráči - 3 každému hráči a nebo
+3 každému hráči - 2 každému hráči - talón (2) - 3 každému hráči - 2 každému hráči (tento je užitý v e-verzi)
+
+### Zápisy bodů
+Během hry se zapisují získané body a tzv. "úpisy" na lístek papíru. Lístek má obvykle tři sloupce, ve stejném pořadí jak budou hráči hrát po sobě a čtvrtý sloupec, do kterého se zapisuje počet bodů o které hraje ten kdo vyhádal talón (Pokud talón nikdo nevzal, hraje se povinnost).
+Každé kolo se pak odděluje podtržením - což se dělá především kvůli přehlednosti a aby se snížila pravděpodobnost chyby v pořadí hráčů.
+
+### Hádání se o talón
+Hádání začíná u hráče který následuje po hráči který má povinnost. Podle toho jaké má hráč karty či na jakou hru se cítí může buď tento základní počet navýšit (Říct "šest!" nebo zvýšit na hodnotu na kterou si troufá ) nebo ne (Být "dobrý"). Pak je na řadě druhý hráč.
+
+Pokud byl první hráč "dobrý", může být "dobrý" i druhý hráč, a to tehdy když:
+
+-- se necítí se na lepší hru
+-- nebo má naopak velmi dobré karty, chce zariskovat a má šanci zahrát větší počet bodů i bez výhody první karty
+-- nebo chce donutit hráče s povinností ke hře
+Na druhou stranu je lepší říct "šest" v případě, že by bez výhody první karty mohl přijít o "hlášku"
+
+Pokud byli oba spoluhráči "dobří", je na hráči s povinností aby si vzal talón. Nicméně pokud některý ze spoluhráčů navýšil na "šest", tak se s ním může začít hádat o talón.
+
+Talón nakonec bere ten, kdo si troufá na to že uhraje vyšší počet bodů. Ostatní hráči se mu pak snaží tento cíl zmařit.
+
+### Začátek hry
+Hráč na kterého zůstala "povinnost", nebo který "vyhádal" talón si nejprve přetřídí karty a složí místo něj dvě libovolné karty s výjimkou esa nebo desítky. Tyto karty se mu pak samozřejmě započítávají do celkového součtu, ovšem pouze v hodnotě obrázků. Tzn. složená hláška se počítá pouze jako dáma + král.
+
+Pak už záleží jen na něm zda řekne že bude hrát o vyšší počet bodů než uhádal, nebo zda zahraje pouze o "vyhádaný" počet. V případě že na něj zůstala povinnost musí uhrát minimálně 50 či 100 bodů (v této verzi 50).
+
+V případě že neuhraje to co má se mu stejný počet bodů upíše (dostane takzvané "kolečko" či "bulka").
+
+### Počítání karet
+Při tisíci se počítají následující body:
+
+karty
+    eso = 11
+    desítka = 10
+    král = 4
+    dáma/svršek = 3
+    junek/spodek = 2
+hlášky
+    křížová = 100
+    listová = 80
+    kulová = 60
+    srdcová = 40
+Platí následující hierarchie
+7 -> 8 -> 9 -> junek -> dáma -> král -> 10 -> eso -> trumf (vyšší trumf přebíjí nižší)
+
+### Hlášky
+Na rozdíl od například mariáše, kde se trumfy v průběhu hry nemění a hned na počátku hry je jasné kterou barvu trumfy mají, se u tisíce začíná bez trumfů a trumfovou barvou se stává barva teprve po zahlášení.
+
+Aby bylo možné zahlásit, musí proběhnout přinejmenším jedno kolo. Hlásí se vhozením dámy nebo krále do hry se slovy TRUMF. Zvykem je hlásit trumf dámou, jelikož má nížší bodovou hodnotu a pokud nemá hráč celou barvu, je jisté, že o tento štych přijde.
+
+Hráč může točit kolo dokud jej někdo nepřebije, třeba tím, že zahlásí nové trumfy. Platí povinnost přiznávat barvu! A to za všech okolností. Tzn. i když má hráč plnou ruku trumfů, musí nejprve přiznat barvu. Zároveň musí jít nutně "přes" (přebít vyšší hodnotou).
+
+Nepřizná-li někdo barvu, pak záleží na počáteční dohodě.
+
+buď se hra opakuje
+nebo ten kdo hru zmrvil upíše povinnost (100 bodů) a ostatním hráčů se připíše po 60 bodech
+Cílem hry je uhrát předem stanovený počet bodů. Po skončení kola se spočítá bodová hodnota získaných karet a hlášek. Pokud to nestačí, čeká hráče úpis. Ostatním hráčům se připisuje ten počet bodů jaký skutečně nahráli. S tím, že se zaokrouhluje od pěti nahoru.
+
+Výjimkou je opět hráč, který hrál o předem stanovený počet bodů. Ten nesmí zahrát ani o jeden bod méně.
+
+
+### Po odehraném kole
+Se povinnost posouvá o jednoho. Hráč který měl povinnost míchá a rozdává. Před rozdáním dává balíček "přeložit" hráči co rozdával předtím. Ten ho přeloží, anebo mu tzv. "věří" a balíček pouze "klepne". Někde je pak zvykem takto "klepnutý" balíček rozdat jiným způsobem.
+
+
+### Konec hry
+Hra končí tehdy, kdy některý z hráčů dosáhne více než 1000 bodů. Přičemž přednost má ten, který bral v poslední hře talón. A to i přesto že jej jiný hráč co do počtu bodů v konečném součtu překonal.
+
+Ovšem pozor! Je to věc dohody a jinde může být vítězem ten kdo dosáhl nejvyššího počtu bodů - talón pak rozhoduje pouze v případě rovnosti bodů.
